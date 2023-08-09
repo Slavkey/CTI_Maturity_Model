@@ -16,11 +16,15 @@ Since budgets are always too small, and the area of CTI operations is always so 
 Hopefully, thanks to that approach CTI SMEs will know what should they focus on in the short and long run. 
 
 ## How was it designed and why?
+Although the inspiration for my work was CMM used by software development organizations, I based most of the details of CTI-MM on my personal experience. While working in (threat) intelligence in different setups and for various stakeholders, I experienced how complex it is to develop intelligence capabilities and how many factors contribute to the overall success. 
+I divided the maturity levels based on the types of intelligence (Strategic, Operational, Tactical) and phases of the intelligence cycle (https://en.wikipedia.org/wiki/Intelligence_cycle).
+Below is a high-level overview of how the CTI program evolves on each maturity level. 
 
-Although the inspiration for my work was CMM used by software development organizations, I based the details of CTI-MM on my personal experience. While working in (threat) intelligence in different setups and for various stakeholders, I experienced how complex it is to develop intelligence capabilities and how many factors contribute to the overall success. 
-I divided all of them based on the types of intelligence (Strategic, Operational, Tactical) and phases of the intelligence cycle (https://en.wikipedia.org/wiki/Intelligence_cycle). 
+![image](https://github.com/Slavkey/CTI_Maturity_Model/assets/141276405/9fe09ddc-3bf0-4455-9091-e1a567c3ca28)
 
-The most important in the model are "controls". Each of them represents a granular capability that can be found / observed in CTI at a chosen maturity level. Because it's not possible to have a fully professional Cyber Threat Intelligence in an organization with an overall low maturity level, all those capabilities are logically and meaningfully tied in the model. Based on that, you can identify/track how they should evolve and grow. With this, you can plan your next steps in a crawl-walk-run approach.
+The most important in the model are "controls". Each of them represents a granular capability that can be found / observed in CTI at a chosen maturity level (see picture below).
+![image](https://github.com/Slavkey/CTI_Maturity_Model/assets/141276405/ba93a474-366f-413c-8e46-61bdb3254400)
+Because it's not possible to have a fully professional Cyber Threat Intelligence in an organization with an overall low maturity level, all those capabilities are logically and meaningfully tied in the model. Based on that, you can identify/track how they should evolve and grow. With this, you can plan your next steps in a crawl-walk-run approach.
 Of course, the model is not meant to be the only way of doing things but should serve as a guide for how everything that influences your intel capabilities can be done. Although the plan was designed specifically for CTI, I think other organizations with "Intelligence" in names can find there something useful too. 
 
 ## How to use it?
