@@ -20,7 +20,7 @@ Although the inspiration for my work was CMM used by software development organi
 I divided the maturity levels based on the types of intelligence (Strategic, Operational, Tactical) and phases of the intelligence cycle (https://en.wikipedia.org/wiki/Intelligence_cycle).
 Below is a high-level overview of how the CTI program evolves on each maturity level. 
 
-![image](https://github.com/Slavkey/CTI_Maturity_Model/assets/141276405/9fe09ddc-3bf0-4455-9091-e1a567c3ca28)
+![image](https://github.com/Slavkey/CTI_Maturity_Model/assets/141276405/b7929cff-bd67-4957-b075-78c51ee10f07)
 
 The most important in the model are "controls". Each of them represents a granular capability that can be found / observed in CTI at a chosen maturity level (see picture below).
 ![image](https://github.com/Slavkey/CTI_Maturity_Model/assets/141276405/ba93a474-366f-413c-8e46-61bdb3254400)
