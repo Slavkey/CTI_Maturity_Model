@@ -33,12 +33,11 @@ Of course, the model is not meant to be the only way of doing things but should 
     <li>Take a look at the whole model from a macro-perspective and decide what maturity level satisfies your needs - remember those needs are established NOT by CTI but by the organization or business needs.</li>
     <li>Identify which controls/capabilities are already present in your environment.</li>
     <li>Identify controls you need to focus on in the first place.</li>
-    <li>Identify, describe processes, technologies, and people (PTP) you need to achieve chosen capabilities (as detailed as can be). _In the excel file, you will find examples of PTP for level 1 only. The rest is a work in progress. Although I think those, because of their granularity, will differ with organizations, their business needs, constraints, budgets, etc._ </li>
+    <li>Identify, describe processes, technologies, and people (PTP) you need to achieve chosen capabilities (as detailed as can be).</li>
     <li>Prepare a development plan that will present details of how you want to professionalize your CTI.</li>
     <li>Track and monitor the development process by using periodical self-assessments, the power of pivot tables and BI dashboards. ;)</li>
 </ol>
 
-  
   **If you want to find potential for further development:**
 <ol>
   <li>Identify which controls/capabilities are already present in your environment.</li>
@@ -48,10 +47,14 @@ Of course, the model is not meant to be the only way of doing things but should 
   <li>Track and monitor the development process.</li>
 </ol>
 
+## Technical Remarks
+_In the excel file, you will find examples of PTP for level 1 only. The rest is a work in progress. Although I think those, because of their granularity, will differ with organizations, their business needs, constraints, budgets, etc._ 
+
 ## PS
 I hope by sharing this repo CTI community will find a useful tool, that will enable a less formal but still orderly way of assessing and developing intel programs. 
 The repo is a 'work in progress'. I'd like to invite you all to develop it and make the model more useful in our work. 
 For those of you who start working on CTI in your own organizations, I hope this will greatly increase your awareness of how complex this is. Believe me, establishing CTI is not only about implementing feeds or even buying TIP ;)
+
 
 
 
